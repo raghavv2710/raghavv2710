@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on RAG pipelines using LLMs<br>🌱 Learning integration of React with Python based Backend<br>⚡ Fun fact - "Breaks do work"
+<h1 align="center">Hi 👋, I'm Raghavendra</h1><br>
+
+# About Me:
+I’m currently working on RAG pipelines using LLMs<br>Learning integration of React with Python based Backend<br>Fun fact - "Breaks do work"
 
 
 ## 🌐 Socials:
